@@ -74,8 +74,10 @@ body {
 
 .about-section {
     margin-top: 20px;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 400;
+    width:900px;
+    height:204px;
     line-height: 68px;
     align-items: left;
     text-align: left;
